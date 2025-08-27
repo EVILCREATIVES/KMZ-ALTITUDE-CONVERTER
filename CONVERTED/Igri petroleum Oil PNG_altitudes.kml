@@ -1,0 +1,500 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Igri petroleum Oil PNG</name>
+	<Style id="inline">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="inline0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#inline</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#inline1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="inline1">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin10">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00aaff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>6600aaff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="s_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00aaff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="s_ylw-pushpin1">
+		<IconStyle>
+			<color>ff00aaff</color>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="s_ylw-pushpin2">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00aaff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>6600aaff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00aaff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>6600aaff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl0">
+		<IconStyle>
+			<color>ff00aaff</color>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl1">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00aaff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl2">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00aaff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>6600aaff</color>
+		</PolyStyle>
+	</Style>
+	<Folder>
+		<name>Survey Area</name>
+		<Placemark>
+			<name>igri petroleum boundry 1sqmi</name>
+			<styleUrl>#inline0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>142.86061395,-6.31786262,451.000 142.87288532,-6.30061069,608.000 142.86428935,-6.29623709,627.000 142.85203667,-6.31321895,477.000 142.86061395,-6.31786262,451.000</coordinates>
+			<altitudeMode>absolute</altitudeMode></LineString>
+		</Placemark>
+		<Placemark>
+			<name>-6.317863
+142.860613</name>
+			<visibility>0</visibility>
+			<Point>
+				<coordinates>142.86061300,-6.31786300,451.000</coordinates>
+			<altitudeMode>absolute</altitudeMode></Point>
+		</Placemark>
+		<Placemark>
+			<name>-6.30061
+ 142.872885</name>
+			<visibility>0</visibility>
+			<Point>
+				<coordinates>142.87288500,-6.30061000,608.000</coordinates>
+			<altitudeMode>absolute</altitudeMode></Point>
+		</Placemark>
+		<Placemark>
+			<name>-6.296243
+
+ 142.864273</name>
+			<visibility>0</visibility>
+			<Point>
+				<coordinates>142.86427300,-6.29624300</coordinates>
+			<altitudeMode>absolute</altitudeMode></Point>
+		</Placemark>
+		<Placemark>
+			<name>-6.313284
+ 142.852001</name>
+			<visibility>0</visibility>
+			<Point>
+				<coordinates>142.85200100,-6.31328400,478.000</coordinates>
+			<altitudeMode>absolute</altitudeMode></Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>Oil</name>
+		<open>1</open>
+		<Placemark>
+			<name>Basin 1</name>
+			<styleUrl>#m_ylw-pushpin1</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>142.85358909,-6.29806443 142.85524294,-6.30060806 142.85702591,-6.30397332 142.85757455,-6.30595874 142.85846969,-6.30985721 142.85846932,-6.31242421 142.85947264,-6.31464324 142.85963316,-6.31507347 142.85946892,-6.31567139 142.85882490,-6.31678600 142.85978397,-6.31794418 142.86179246,-6.31974315 142.86371340,-6.32313772 142.86504351,-6.32548031 142.86638454,-6.32521362 142.86563535,-6.32202404 142.86463655,-6.31827239 142.86438664,-6.31340037 142.86447029,-6.31314937 142.86463973,-6.31040656 142.86480607,-6.31015690 142.86580240,-6.30627011 142.86588500,-6.30602353 142.86621473,-6.30151595 142.86555913,-6.29785802 142.86409227,-6.29406477 142.86173852,-6.29142217 142.85358909,-6.29806443</coordinates>
+					<altitudeMode>absolute</altitudeMode></LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>B1a/ 4645-5335'</name>
+			<LookAt>
+				<longitude>142.8677525057736</longitude>
+				<latitude>-6.309596747599326</latitude>
+				<altitude>0</altitude>
+				<heading>8.148805484509981e-05</heading>
+				<tilt>0</tilt>
+				<range>6860.286406957489</range>
+				</LookAt>
+			<styleUrl>#m_ylw-pushpin10</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>142.85797390,-6.29853119</coordinates>
+			<altitudeMode>absolute</altitudeMode></Point>
+		</Placemark>
+		<Placemark>
+			<name>B1b/ 4265-5015'</name>
+			<LookAt>
+				<longitude>142.8677525057736</longitude>
+				<latitude>-6.309596747599326</latitude>
+				<altitude>0</altitude>
+				<heading>8.148805484509981e-05</heading>
+				<tilt>0</tilt>
+				<range>6860.286406957489</range>
+				</LookAt>
+			<styleUrl>#m_ylw-pushpin10</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>142.86127238,-6.30391173</coordinates>
+			<altitudeMode>absolute</altitudeMode></Point>
+		</Placemark>
+		<Placemark>
+			<name>B1c/ 4130-4540'</name>
+			<LookAt>
+				<longitude>142.8677525057736</longitude>
+				<latitude>-6.309596747599326</latitude>
+				<altitude>0</altitude>
+				<heading>8.148805484509981e-05</heading>
+				<tilt>0</tilt>
+				<range>6860.286406957489</range>
+				</LookAt>
+			<styleUrl>#m_ylw-pushpin10</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>142.86271167,-6.31093279,487.000</coordinates>
+			<altitudeMode>absolute</altitudeMode></Point>
+		</Placemark>
+		<Placemark>
+			<name>B1d/ 4170-4280'</name>
+			<LookAt>
+				<longitude>142.8677525057736</longitude>
+				<latitude>-6.309596747599326</latitude>
+				<altitude>0</altitude>
+				<heading>8.148805484509981e-05</heading>
+				<tilt>0</tilt>
+				<range>6860.286406957489</range>
+				</LookAt>
+			<styleUrl>#m_ylw-pushpin10</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>142.86406082,-6.31996763</coordinates>
+			<altitudeMode>absolute</altitudeMode></Point>
+		</Placemark>
+		<Placemark>
+			<name>Res 1</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>142.86256383,-6.29703067 142.86293995,-6.29746959 142.86328226,-6.29799705 142.86358358,-6.29923502 142.86364946,-6.30087674 142.86340676,-6.30180411 142.86336412,-6.30287114 142.86347772,-6.30382830 142.86409840,-6.30452298 142.86467862,-6.30440874 142.86506876,-6.30304501 142.86518610,-6.30141701 142.86503652,-6.29992473 142.86484853,-6.29843078 142.86435608,-6.29700973 142.86416683,-6.29656136 142.86336627,-6.29639920 142.86272162,-6.29651932 142.86256383,-6.29703067</coordinates>
+					<altitudeMode>absolute</altitudeMode></LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>R1a/ 4940-5015'</name>
+			<LookAt>
+				<longitude>142.8630256352594</longitude>
+				<latitude>-6.304834536348559</latitude>
+				<altitude>0</altitude>
+				<heading>0.0006001535737888259</heading>
+				<tilt>0</tilt>
+				<range>2904.696708815773</range>
+				</LookAt>
+			<styleUrl>#m_ylw-pushpin10</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>142.86373958,-6.29736558</coordinates>
+			<altitudeMode>absolute</altitudeMode></Point>
+		</Placemark>
+		<Placemark>
+			<name>R1b/ 4910-4985'</name>
+			<LookAt>
+				<longitude>142.8630256352594</longitude>
+				<latitude>-6.304834536348559</latitude>
+				<altitude>0</altitude>
+				<heading>0.0006001535737888259</heading>
+				<tilt>0</tilt>
+				<range>2904.696708815773</range>
+				</LookAt>
+			<styleUrl>#m_ylw-pushpin10</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>142.86427358,-6.30007355,594.000</coordinates>
+			<altitudeMode>absolute</altitudeMode></Point>
+		</Placemark>
+		<Placemark>
+			<name>R1c/ 4880-4950'</name>
+			<LookAt>
+				<longitude>142.8630256352594</longitude>
+				<latitude>-6.304834536348559</latitude>
+				<altitude>0</altitude>
+				<heading>0.0006001535737888259</heading>
+				<tilt>0</tilt>
+				<range>2904.696708815773</range>
+				</LookAt>
+			<styleUrl>#m_ylw-pushpin10</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>142.86426378,-6.30318525</coordinates>
+			<altitudeMode>absolute</altitudeMode></Point>
+		</Placemark>
+		<Placemark>
+			<name>Res 2</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>142.85998334,-6.30983159 142.85980292,-6.31048535 142.85975106,-6.31160294 142.85992801,-6.31325881 142.86044114,-6.31498814 142.86100866,-6.31620691 142.86141698,-6.31759357 142.86185110,-6.31812062 142.86226021,-6.31799093 142.86236419,-6.31766425 142.86216682,-6.31599835 142.86178558,-6.31472666 142.86144405,-6.31315672 142.86113317,-6.31203582 142.86092700,-6.31097419 142.86079906,-6.31009221 142.86051916,-6.30971242 142.85998334,-6.30983159</coordinates>
+					<altitudeMode>absolute</altitudeMode></LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>R2a/ 4325-4375'</name>
+			<LookAt>
+				<longitude>142.8600379053193</longitude>
+				<latitude>-6.312928306292497</latitude>
+				<altitude>0</altitude>
+				<heading>0.0009278803464500586</heading>
+				<tilt>0</tilt>
+				<range>2975.268729288775</range>
+				</LookAt>
+			<styleUrl>#m_ylw-pushpin10</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>142.86041858,-6.31084094</coordinates>
+			<altitudeMode>absolute</altitudeMode></Point>
+		</Placemark>
+		<Placemark>
+			<name>R2b/ 4290-4340'</name>
+			<LookAt>
+				<longitude>142.8600379053193</longitude>
+				<latitude>-6.312928306292497</latitude>
+				<altitude>0</altitude>
+				<heading>0.0009278803464500586</heading>
+				<tilt>0</tilt>
+				<range>2975.268729288775</range>
+				</LookAt>
+			<styleUrl>#m_ylw-pushpin10</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>142.86084653,-6.31392970,454.000</coordinates>
+			<altitudeMode>absolute</altitudeMode></Point>
+		</Placemark>
+		<Placemark>
+			<name>R2c/ 4250-4275'</name>
+			<LookAt>
+				<longitude>142.8600379053193</longitude>
+				<latitude>-6.312928306292497</latitude>
+				<altitude>0</altitude>
+				<heading>0.0009278803464500586</heading>
+				<tilt>0</tilt>
+				<range>2975.268729288775</range>
+				</LookAt>
+			<styleUrl>#m_ylw-pushpin10</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>142.86176585,-6.31696645</coordinates>
+			<altitudeMode>absolute</altitudeMode></Point>
+		</Placemark>
+		<Placemark>
+			<name>Fault 1</name>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>142.84264890,-6.30071939 142.84522967,-6.30284683 142.84751927,-6.30477085 142.85062251,-6.30803359 142.85272180,-6.30943901 142.85306117,-6.30977698 142.85487353,-6.31260951 142.85725467,-6.31491046 142.85807574,-6.31597127 142.85977938,-6.31794811 142.86011493,-6.31953232 142.86216664,-6.32376722 142.86365861,-6.32651042</coordinates>
+			<altitudeMode>absolute</altitudeMode></LineString>
+		</Placemark>
+		<Placemark>
+			<name>F1a/ 4235-4255'</name>
+			<LookAt>
+				<longitude>142.8644195018219</longitude>
+				<latitude>-6.314868057571928</latitude>
+				<altitude>0</altitude>
+				<heading>0.0004460000606464179</heading>
+				<tilt>0</tilt>
+				<range>4508.281199000686</range>
+				</LookAt>
+			<styleUrl>#m_ylw-pushpin10</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>142.84715388,-6.30443900</coordinates>
+			<altitudeMode>absolute</altitudeMode></Point>
+		</Placemark>
+		<Placemark>
+			<name>F1b/ 4215-4235'</name>
+			<LookAt>
+				<longitude>142.8632725333865</longitude>
+				<latitude>-6.314868048031131</latitude>
+				<altitude>0</altitude>
+				<heading>0.0005721576843583072</heading>
+				<tilt>0</tilt>
+				<range>4523.121377571707</range>
+				</LookAt>
+			<styleUrl>#m_ylw-pushpin10</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>142.85293043,-6.30959833,446.000</coordinates>
+			<altitudeMode>absolute</altitudeMode></Point>
+		</Placemark>
+		<Placemark>
+			<name>F1c/ 4244-4265'</name>
+			<LookAt>
+				<longitude>142.8632725333865</longitude>
+				<latitude>-6.314868048031131</latitude>
+				<altitude>0</altitude>
+				<heading>0.0005721576843583072</heading>
+				<tilt>0</tilt>
+				<range>4523.121377571707</range>
+				</LookAt>
+			<styleUrl>#m_ylw-pushpin10</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>142.85741821,-6.31506792</coordinates>
+			<altitudeMode>absolute</altitudeMode></Point>
+		</Placemark>
+		<Placemark>
+			<name>F1d/ 4180-4205'</name>
+			<LookAt>
+				<longitude>142.8632725333865</longitude>
+				<latitude>-6.314868048031131</latitude>
+				<altitude>0</altitude>
+				<heading>0.0005721576843583072</heading>
+				<tilt>0</tilt>
+				<range>4523.121377571707</range>
+				</LookAt>
+			<styleUrl>#m_ylw-pushpin10</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>142.86065969,-6.32066574,407.000</coordinates>
+			<altitudeMode>absolute</altitudeMode></Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
