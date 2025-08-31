@@ -1,0 +1,5 @@
+services:
+  - type: web
+    name: kmz-altitude
+    env: docker
+    autoDeploy: true
